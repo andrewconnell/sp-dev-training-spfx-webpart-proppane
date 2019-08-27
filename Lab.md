@@ -25,7 +25,7 @@ In this exercise, you will get hands-on experience in manipulating the property 
 
 ### Create a new SPFx Solution & Web Part
 
-> NOTE: The instructions below assume you are using v1.8.2 of the SharePoint Framework Yeoman generator.
+> NOTE: The instructions below assume you are using v1.9.1 of the SharePoint Framework Yeoman generator.
 
 1. Open a command prompt and change to the folder where you want to create the project.
 1. Run the SharePoint Framework Yeoman generator by executing the following command:
