@@ -2,17 +2,18 @@
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
   "version": "2.0",
   "bundles": {
-    "hello-property-pane-web-part": {
+    "hello-pn-p-controls-web-part": {
       "components": [
         {
-          "entrypoint": "./lib/webparts/helloPropertyPane/HelloPropertyPaneWebPart.js",
-          "manifest": "./src/webparts/helloPropertyPane/HelloPropertyPaneWebPart.manifest.json"
+          "entrypoint": "./lib/webparts/helloPnPControls/HelloPnPControlsWebPart.js",
+          "manifest": "./src/webparts/helloPnPControls/HelloPnPControlsWebPart.manifest.json"
         }
       ]
     }
   },
   "externals": {},
   "localizedResources": {
-    "HelloPropertyPaneWebPartStrings": "lib/webparts/helloPropertyPane/loc/{locale}.js"
+    "HelloPnPControlsWebPartStrings": "lib/webparts/helloPnPControls/loc/{locale}.js",
+    "PropertyControlStrings": "node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js"
   }
 }

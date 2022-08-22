@@ -1,5 +1,5 @@
 {
-  "name": "hello-property-pane",
+  "name": "hello-pn-p-controls",
   "version": "0.0.1",
   "private": true,
   "main": "lib/index.js",
@@ -14,6 +14,7 @@
     "@microsoft/sp-office-ui-fabric-core": "1.15.2",
     "@microsoft/sp-property-pane": "1.15.2",
     "@microsoft/sp-webpart-base": "1.15.2",
+    "@pnp/spfx-property-controls": "3.8.0",
     "tslib": "2.3.1"
   },
   "devDependencies": {
@@ -23,7 +24,6 @@
     "@microsoft/sp-build-web": "1.15.2",
     "@microsoft/sp-module-interfaces": "1.15.2",
     "@rushstack/eslint-config": "2.5.1",
-    "@types/react": "^17.0.48",
     "@types/webpack-env": "~1.15.2",
     "ajv": "^6.12.5",
     "gulp": "4.0.2",
