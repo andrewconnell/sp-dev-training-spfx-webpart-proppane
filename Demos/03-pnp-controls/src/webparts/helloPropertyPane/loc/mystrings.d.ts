@@ -1,4 +1,4 @@
-declare interface IHelloPnPControlsWebPartStrings {
+declare interface IHelloPropertyPaneWebPartStrings {
   PropertyPaneDescription: string;
   BasicGroupName: string;
   DescriptionFieldLabel: string;
@@ -8,7 +8,7 @@ declare interface IHelloPnPControlsWebPartStrings {
   AppTeamsTabEnvironment: string;
 }
 
-declare module 'HelloPnPControlsWebPartStrings' {
-  const strings: IHelloPnPControlsWebPartStrings;
+declare module 'HelloPropertyPaneWebPartStrings' {
+  const strings: IHelloPropertyPaneWebPartStrings;
   export = strings;
 }

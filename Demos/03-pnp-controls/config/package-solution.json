@@ -1,8 +1,8 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "hello-pn-p-controls-client-side-solution",
-    "id": "3ff15502-0afd-4cc8-bb87-12087a37926a",
+    "name": "hello-property-pane-client-side-solution",
+    "id": "6ccc686a-50ee-4502-93c1-e59c0e81c732",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
     "skipFeatureDeployment": true,
@@ -12,14 +12,14 @@
       "websiteUrl": "",
       "privacyUrl": "",
       "termsOfUseUrl": "",
-      "mpnId": "Undefined-1.14.0"
+      "mpnId": "Undefined-1.15.2"
     },
     "metadata": {
       "shortDescription": {
-        "default": "HelloPnPControls description"
+        "default": "HelloPropertyPane description"
       },
       "longDescription": {
-        "default": "HelloPnPControls description"
+        "default": "HelloPropertyPane description"
       },
       "screenshotPaths": [],
       "videoUrl": "",
@@ -27,14 +27,14 @@
     },
     "features": [
       {
-        "title": "hello-pn-p-controls Feature",
-        "description": "The feature that activates elements of the hello-pn-p-controls solution.",
-        "id": "181d062e-5733-4d3a-8963-da21037236fd",
+        "title": "hello-property-pane Feature",
+        "description": "The feature that activates elements of the hello-property-pane solution.",
+        "id": "160a061f-bd19-4ebd-84d0-56161e4402c3",
         "version": "1.0.0.0"
       }
     ]
   },
   "paths": {
-    "zippedPackage": "solution/hello-pn-p-controls.sppkg"
+    "zippedPackage": "solution/hello-property-pane.sppkg"
   }
 }

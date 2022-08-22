@@ -2,13 +2,13 @@
   "@microsoft/generator-sharepoint": {
     "plusBeta": false,
     "isCreatingSolution": true,
-    "version": "1.14.0",
-    "libraryName": "hello-pn-p-controls",
-    "libraryId": "3ff15502-0afd-4cc8-bb87-12087a37926a",
+    "version": "1.15.2",
+    "libraryName": "hello-property-pane",
+    "libraryId": "6ccc686a-50ee-4502-93c1-e59c0e81c732",
     "environment": "spo",
     "packageManager": "npm",
-    "solutionName": "HelloPnPControls",
-    "solutionShortDescription": "HelloPnPControls description",
+    "solutionName": "HelloPropertyPane",
+    "solutionShortDescription": "HelloPropertyPane description",
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,
     "componentType": "webpart"
